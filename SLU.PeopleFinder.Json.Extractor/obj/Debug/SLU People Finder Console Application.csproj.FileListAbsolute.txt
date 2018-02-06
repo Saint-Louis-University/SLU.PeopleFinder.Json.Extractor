@@ -1,0 +1,9 @@
+C:\Users\schuelkem\source\repos\SLU People Finder Console Application\SLU People Finder Console Application\bin\Debug\SLU People Finder Console Application.exe.config
+C:\Users\schuelkem\source\repos\SLU People Finder Console Application\SLU People Finder Console Application\bin\Debug\SLU People Finder Console Application.exe
+C:\Users\schuelkem\source\repos\SLU People Finder Console Application\SLU People Finder Console Application\bin\Debug\SLU People Finder Console Application.pdb
+C:\Users\schuelkem\source\repos\SLU People Finder Console Application\SLU People Finder Console Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\schuelkem\source\repos\SLU People Finder Console Application\SLU People Finder Console Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\schuelkem\source\repos\SLU People Finder Console Application\SLU People Finder Console Application\obj\Debug\SLU People Finder Console Application.csprojResolveAssemblyReference.cache
+C:\Users\schuelkem\source\repos\SLU People Finder Console Application\SLU People Finder Console Application\obj\Debug\SLU People Finder Console Application.csproj.CoreCompileInputs.cache
+C:\Users\schuelkem\source\repos\SLU People Finder Console Application\SLU People Finder Console Application\obj\Debug\SLU People Finder Console Application.exe
+C:\Users\schuelkem\source\repos\SLU People Finder Console Application\SLU People Finder Console Application\obj\Debug\SLU People Finder Console Application.pdb

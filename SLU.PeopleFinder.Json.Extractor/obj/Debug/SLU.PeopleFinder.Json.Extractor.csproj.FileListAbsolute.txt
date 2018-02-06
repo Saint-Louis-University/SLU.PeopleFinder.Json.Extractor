@@ -1,0 +1,8 @@
+C:\Users\schuelkem\source\repos\SLU People Finder Console Application\SLU People Finder Console Application\bin\Debug\SLU.PeopleFinder.Json.Extractor.dll.config
+C:\Users\schuelkem\source\repos\SLU People Finder Console Application\SLU People Finder Console Application\bin\Debug\SLU.PeopleFinder.Json.Extractor.dll
+C:\Users\schuelkem\source\repos\SLU People Finder Console Application\SLU People Finder Console Application\bin\Debug\SLU.PeopleFinder.Json.Extractor.pdb
+C:\Users\schuelkem\source\repos\SLU People Finder Console Application\SLU People Finder Console Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\schuelkem\source\repos\SLU People Finder Console Application\SLU People Finder Console Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\schuelkem\source\repos\SLU People Finder Console Application\SLU People Finder Console Application\obj\Debug\SLU.PeopleFinder.Json.Extractor.csproj.CoreCompileInputs.cache
+C:\Users\schuelkem\source\repos\SLU People Finder Console Application\SLU People Finder Console Application\obj\Debug\SLU.PeopleFinder.Json.Extractor.dll
+C:\Users\schuelkem\source\repos\SLU People Finder Console Application\SLU People Finder Console Application\obj\Debug\SLU.PeopleFinder.Json.Extractor.pdb
