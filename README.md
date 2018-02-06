@@ -13,7 +13,7 @@ Request JSON results from PeopleFinder and parse results using Json.NET
 **Prerequisites**
 
 * .NET Framwork 4.6.1
-* [Json.NET v10.0.3](https://www.newtonsoft.com/json)
+* [Json.NET 10.0.3](https://www.newtonsoft.com/json)
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ Request JSON results from PeopleFinder and parse results using Json.NET
 
 ## Resources
 
-* PeopleFinder Json Url: https://www.slu.edu/peoplefinder/json/json_index.php?q=<query>
+* PeopleFinder Json Url: https://www.slu.edu/peoplefinder/json/json_index.php?q=my_query_string
 * [Json.NET documentation](https://www.newtonsoft.com/json/help/html/Introduction.htm)
 
 ## Notes
